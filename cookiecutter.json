@@ -1,0 +1,11 @@
+{
+  "project_name": "FastAPI Starter",
+  "project_slug": "fastapi-starter",
+  "description": "Starter project for FastAPI",
+  "author_name": "umangbudhwar",
+  "author_email": "umangbudhwar@gmail.com",
+  "python_version": "3.13",
+  "host": "127.0.0.1",
+  "port": 1506,
+  "enable_openapi": true
+}
